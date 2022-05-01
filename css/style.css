@@ -5,6 +5,10 @@ body {
     font-family: 'Oswald', sans-serif;
     background-color: rgb(244, 160, 77);
   }
+
+  section > div {
+    color: aqua;
+  }
    
   nav ul {
     list-style: none;
